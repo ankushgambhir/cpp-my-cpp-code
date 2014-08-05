@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407161139 source:c:\users\ankush\cpp\factorialofanumber\main.cpp
+	<iostream>
+	<math.h>
+
